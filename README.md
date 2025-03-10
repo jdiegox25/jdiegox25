@@ -30,10 +30,7 @@ Actualmente, estoy desarrollando aplicaciones con **Python y Flask**, mejorando 
 Si tienes algún proyecto interesante o quieres compartir conocimientos, ¡hablemos! 🚀  
 <!-- Connect with me -->
 <!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
+
 </div>
 <!-- Connect with me -->
 <!--h2 without bottom border-->
