@@ -10,8 +10,7 @@
 
 # 🚀 Desarrollador Junior | En constante aprendizaje | Esperando nuevos retos  
 
-¡Hola! Soy un desarrollador junior apasionado por la programación, actualmente trabajando en proyectos con **Python, JavaScript, React.js y Flask**, mientras sigo mejorando mis conocimientos en **MySQL y PHP**.  
-
+¡Hola! Soy un desarrollador junior apasionado por la programación, actualmente trabajando en proyectos con Python, JavaScript, React.js y Flask, mientras sigo mejorando mis conocimientos en MySQL y PHP.
 ## 💡 Lo que me motiva  
 - Desarrollar aplicaciones eficientes y escalables  
 - Aprender y aplicar nuevas tecnologías  
